@@ -1,16 +1,16 @@
-// Create an array of favorite singers
-let favSingers = ["Taylor Swift", "Niki", "Bruno Mars"];
+// Create an array of your favorite singers
+let favSingers = ["Tj Monterde", "Sarah Geronimo", "Rico Blanco"];
 
-// Log the first singer using array index notation
+// Console the first singer using array index notation
 console.log("First favorite singer:", favSingers[0]);
 
 // Create an array of favorite numbers
-let favNumbers = [5, 9, 20, 22];
+let favNumbers = [4, 15, 27, 30];
 
 // Create an array with mixed data types
 let mixedArray = ["string", ["otherarray"], 123, true];
 
-// Access and log each item in the mixed array
+// Access and console each item in the mixed array
 console.log("First item in mixedArray:", mixedArray[0]);
 console.log("Second item in mixedArray:", mixedArray[1]);
 console.log("Third item in mixedArray:", mixedArray[2]);
